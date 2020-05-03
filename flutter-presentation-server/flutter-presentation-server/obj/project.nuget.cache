@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FDYNrF+mu+W+T3qi0CnuyvHAUm84fStTUF7vSO+dKpqwpSwHlR07E1HrIiJjn4suIKd0OCPj4Di1QQiTpQMlLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andyp\\coding\\flutter-presentation\\server\\flutter-presentation-server\\flutter-presentation-server\\flutter-presentation-server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andyp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
